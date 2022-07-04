@@ -1,0 +1,56 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: orange;
+}
+.marsin{
+    margin-left: 50px;
+} 
+.login-button{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    border-radius: 3px;
+    background: linear-gradient(orange, tomato);
+    padding: 5px;
+}
+.flex-able{
+    display: flex;
+}
+.half-width{
+    width: 100%;
+    padding: 2%;
+}
+.top-bannar{
+    background-image: url(image/Picsart_22-07-04_10-38-33-788.png);
+    background-repeat: no-repeat;
+}
+
+.box-shadow{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 5px 5px 30px gray;
+    padding-left: 10px;
+    border-radius: 10px;
+    
+}
+#border-right{
+    border-left: 10px solid tomato;
+}
+#exprienses-baby{
+    border-left: 10px solid blue;
+}
+h3{
+    color: orange;
+}
+#lex-able2{
+    background-image: url(image/Picsart_22-07-04_22-25-03-809.png);
+    background-repeat: no-repeat;
+   
+
+}
